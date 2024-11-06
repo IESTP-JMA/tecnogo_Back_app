@@ -1,1 +1,0 @@
-# frontend de la app
